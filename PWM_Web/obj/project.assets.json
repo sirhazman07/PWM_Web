@@ -12271,11 +12271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harol\\source\\repos\\PWM_Web\\PWM_Web\\PWM_Web.csproj",
+      "projectUniqueName": "C:\\Users\\harol\\Desktop\\PWM_Web\\PWM_Web\\PWM_Web.csproj",
       "projectName": "PWM_Web",
-      "projectPath": "C:\\Users\\harol\\source\\repos\\PWM_Web\\PWM_Web\\PWM_Web.csproj",
+      "projectPath": "C:\\Users\\harol\\Desktop\\PWM_Web\\PWM_Web\\PWM_Web.csproj",
       "packagesPath": "C:\\Users\\harol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harol\\source\\repos\\PWM_Web\\PWM_Web\\obj\\",
+      "outputPath": "C:\\Users\\harol\\Desktop\\PWM_Web\\PWM_Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
